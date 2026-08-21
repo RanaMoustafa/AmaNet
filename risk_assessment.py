@@ -6,6 +6,7 @@ threat_type=[
     ("financial_demand", "Is the extortionist demanding money or illegal favors?")
 ]
 
+
 Risk_Scores = {
     "direct_threat": 3,
     "private_content": 3,
@@ -14,12 +15,14 @@ Risk_Scores = {
     "financial_demand": 2
 }
 
+
 def calculate_risk_score(answers_dict):
     total_score = 0
     for key in answers_dict:
         if answers_dict[key] == True:
             total_score = total_score + Risk_Scores[key]
     return total_score
+
 
 def get_risk_level(score):
     if score >= 8:
@@ -30,6 +33,7 @@ def get_risk_level(score):
         return "Medium"
     else:
         return "Low"
+
     
 def run_risk_assessment():
     print("--- Starting Risk Assessment ---")
