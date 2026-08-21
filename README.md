@@ -1,14 +1,14 @@
-# AmaNet - Online Extortion System
+# AmaNet - Online Extortion Management System
 
 A Python application for managing online extortion cases, assessing risk levels, and generating official police reports.
 
 ---
 
 ## 👥 Team Members
-* **Case Management:** @janamohamed0
-* **Risk Assessment:** @Nada-Mohamed-Belal
-* **Evidence & Location:** @MariemYasser
-* **Report & Submission:** @RanaMoustafa
+* **Case Management:** [@janamohamed0](https://github.com/janamohamed0)
+* **Risk Assessment:** [@Nada-Mohamed-Belal](https://github.com/Nada-Mohamed-Belal)
+* **Evidence & Location:** [@MariemYasser](https://github.com/MariemYasser)
+* **Report & Submission:** [@RanaMoustafa](https://github.com/RanaMoustafa)
 
 ---
 
