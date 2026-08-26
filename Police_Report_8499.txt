@@ -25,8 +25,7 @@ Risk Score    : 7 / 12
 
 [ OFFICIAL DISPATCH LOCATION ]
 Governorate   : Damietta
-Directorate   : (Cybercrime Unit - Damietta) ﻁﺎﻴﻣﺩ ﻦﻣﺃ ﺔﻳﺮﻳﺪﻣ
-Address       : ﺮﻳﺮﺤﺘﻟﺍ ﻉﺭﺎﺷ - ﻁﺎﻴﻣﺩ
+Directorate   : (Cybercrime Unit - Damietta) 
 Hotline       : 108
 Landline      : 0572224000
 WhatsApp      : 01080800080
