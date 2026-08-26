@@ -19,9 +19,6 @@ except ImportError:
     HAS_ARABIC_RESHAPER = False
 
 
-# ==========================================
-# 1. DATA STRUCTURES & DATA DICTIONARIES
-# ==========================================
 
 governorates = {
     "Cairo": {
