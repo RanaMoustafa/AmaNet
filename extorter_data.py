@@ -1,4 +1,3 @@
-  
 def collect_extorter_data():
   print("\n--- Extorter Data ---")
   extorter_name = input("Enter extorter name : ")

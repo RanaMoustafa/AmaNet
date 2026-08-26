@@ -1,0 +1,33 @@
+
+====================================================
+            Aman - OFFICIAL INCIDENT REPORT
+====================================================
+Date of Report: 2026-08-21
+Time of Report: 19:14:07
+
+[ CASE DETAILS ]
+Case ID       : 8499
+Victim Name   : Rana Moustafa Mohamed Zaki
+Victim Phone  : 0102345678
+Case Type     : Emotional/Photo Blackmail
+Current Status: New
+
+[ EXTORTER INFORMATION ]
+Phone Number  : 01023456897
+Profile Link  : facfacebook.com/fake.profile.99
+
+[ RISK ASSESSMENT ]
+Risk Level    : High
+Risk Score    : 7 / 12
+
+[ EVIDENCE COLLECTED ]
+1 - Type: Screenshot | Description: private photo | File: C:/Users/USER/Pictures/Screenshots/Screenshot 2026-06-03 031608.png
+
+[ OFFICIAL DISPATCH LOCATION ]
+Governorate   : Damietta
+Directorate   : (Cybercrime Unit - Damietta) ﻁﺎﻴﻣﺩ ﻦﻣﺃ ﺔﻳﺮﻳﺪﻣ
+Address       : ﺮﻳﺮﺤﺘﻟﺍ ﻉﺭﺎﺷ - ﻁﺎﻴﻣﺩ
+Hotline       : 108
+Landline      : 0572224000
+WhatsApp      : 01080800080
+====================================================
